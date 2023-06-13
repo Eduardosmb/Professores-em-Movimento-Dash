@@ -1,0 +1,12 @@
+/* Estilo para o gráfico */
+#correlation-graph {
+    width: 600px;
+    height: 400px;
+    margin: 20px auto;
+  }
+  
+  /* Estilo para o dropdown */
+  .graph-selector {
+    margin-top: 20px;
+  }
+  
