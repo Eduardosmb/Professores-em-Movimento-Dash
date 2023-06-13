@@ -1,0 +1,72 @@
+QT_MAT_BAS	Número de Matrículas na Educação Básica
+QT_MAT_INF	Número de Matrículas na Educação Infantil
+QT_MAT_INF_CRE	Número de Matrículas na Educação Infantil - Creche
+QT_MAT_INF_PRE	Número de Matrículas na Educação Infantil - Pré-Escola
+QT_MAT_FUND	Número de Matrículas no Ensino Fundamental
+QT_MAT_FUND_AI	Número de Matrículas no Ensino Fundamental - Anos Iniciais
+QT_MAT_FUND_AF	Número de Matrículas no Ensino Fundamental - Anos Finais
+QT_MAT_MED	Número de Matrículas no Ensino Médio
+QT_MAT_EJA	Número de Matrículas na Educação de Jovens e Adultos (EJA)
+QT_MAT_EJA_FUND	Número de Matrículas na Educação de Jovens e Adultos (EJA) - Ensino Fundamental
+QT_MAT_EJA_MED	Número de Matrículas na Educação de Jovens e Adultos (EJA) - Ensino Médio
+QT_MAT_ESP	Número de Matrículas na Educação Especial
+QT_MAT_ESP_CC	Número de Matrículas na Educação Especial Inclusiva
+QT_MAT_ESP_CE	Número de Matrículas na Educação Especial Exclusiva
+QT_DOC_BAS	Número de Docentes da Educação Básica
+QT_DOC_INF	Número de Docentes da Educação Infantil
+QT_DOC_INF_CRE	Número de Docentes da Educação Infantil - Creche
+QT_DOC_INF_PRE	Número de Docentes da Educação Infantil - Pré-Escola
+QT_DOC_FUND	Número de Docentes do Ensino Fundamental
+QT_DOC_FUND_AI	Número de Docentes do Ensino Fundamental - Anos Iniciais
+QT_DOC_FUND_AF	Número de Docentes do Ensino Fundamental - Anos Finais
+QT_DOC_MED	Número de Docentes do Ensino Médio
+
+
+
+NO_ENTIDADE	Nome da Escola	Char	100	
+CO_ENTIDADE	Código da Escola	Num	8	
+TP_DEPENDENCIA	Dependência Administrativa	Num	1	1 - Federal 2 - Estadual 3 - Municipal 4 - Privada
+TP_LOCALIZACAO	Localização	Num	1	1 - Urbana 2 - Rural
+CO_CEP	CEP
+TP_SITUACAO_FUNCIONAMENTO	Situação de funcionamento	Num	1	1 - Em Atividade 2 - Paralisada 3 - Extinta (ano do Censo) 4 - Extinta em Anos Anteriores
+CO_ESCOLA_SEDE_VINCULADA	Código da escola sede	Num	8	   - Não aplicável para escolas que não possuem vínculo
+IN_AGUA_POTAVEL	Fornece água potável para o consumo humano	Num	1	0 - Não 1 - Sim
+IN_AGUA_REDE_PUBLICA	Abastecimento de água - Rede pública	Num	1	0 - Não 1 - Sim
+IN_AGUA_POCO_ARTESIANO	Abastecimento de água - Poço artesiano	Num	1	0 - Não 1 - Sim
+IN_AGUA_CACIMBA	Abastecimento de água - Cacimba/Cisterna/Poço	Num	1	0 - Não 1 - Sim
+IN_ESGOTO_REDE_PUBLICA	Esgoto sanitário - Rede pública	Num	1	0 - Não 1 - Sim
+IN_ESGOTO_FOSSA_COMUM	Esgoto sanitário - Fossa rudimentar/comum	Num	1	0 - Não 1 - Sim
+IN_ESGOTO_FOSSA	Esgoto sanitário - Fossa	Num	1	0 - Não 1 - Sim
+IN_BANHEIRO_DENTRO_PREDIO	Dependências físicas existentes e utilizadas na escola - Banheiro dentro do prédio	Num	1
+IN_BIBLIOTECA	Dependências físicas existentes e utilizadas na escola - Biblioteca	Num	1	0 - Não 1 - Sim
+IN_BIBLIOTECA_SALA_LEITURA	Dependências físicas existentes e utilizadas na escola - Biblioteca e/ou Sala de leitura	Num	1	0 - Não 1 - Sim
+IN_LABORATORIO_CIENCIAS	Dependências físicas existentes e utilizadas na escola - Laboratório de ciências	Num	1	0 - Não 1 - Sim
+IN_LABORATORIO_INFORMATICA	Dependências físicas existentes e utilizadas na escola - Laboratório de informática	Num	1	0 - Não 1 - Sim
+IN_QUADRA_ESPORTES	Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta ou descoberta	Num	1	0 - Não 1 - Sim
+IN_REFEITORIO	Dependências físicas existentes e utilizadas na escola - Refeitório	Num	1	0 - Não 1 - Sim
+IN_COMPUTADOR	Equipamentos existentes na escola para uso técnico e administrativo - Computador	Num	1	0 - Não 1 - Sim
+IN_EQUIP_IMPRESSORA	Equipamentos existentes na escola para uso técnico e administrativo - Impressora	Num	1	0 - Não 1 - Sim
+IN_INTERNET_ALUNOS	Acesso à Internet - Para uso dos alunos	Num	1	0 - Não 1 - Sim
+IN_INTERNET_ADMINISTRATIVO	Acesso à Internet - Para uso administrativo	Num	1	0 - Não 1 - Sim
+IN_ALIMENTACAO	Alimentação escolar para os alunos - PNAE/FNDE	Num	1	0 - Não oferece 1 - Oferece
+IN_ESPACO_ATIVIDADE	A escola compartilha espaços para atividades de integração escola-comunidade	Num	1	0 - Não 1 - Sim 9 - Não informado
+QT_DOC_BAS	Número de Docentes da Educação Básica
+QT_DOC_INF	Número de Docentes da Educação Infantil
+QT_DOC_INF_CRE	Número de Docentes da Educação Infantil - Creche
+QT_DOC_INF_PRE	Número de Docentes da Educação Infantil - Pré-Escola
+QT_DOC_FUND	Número de Docentes do Ensino Fundamental
+QT_DOC_FUND_AI	Número de Docentes do Ensino Fundamental - Anos Iniciais
+QT_DOC_FUND_AF	Número de Docentes do Ensino Fundamental - Anos Finais
+QT_DOC_MED	Número de Docentes do Ensino Médio
+QT_DOC_PROF	Número de Docentes da Educação Profissional
+QT_DOC_PROF_TEC	Número de Docentes da Educação Profissional Técnica
+QT_DOC_EJA	Número de Docentes da Educação de Jovens e Adultos (EJA)
+QT_DOC_EJA_FUND	Número de Docentes da Educação de Jovens e Adultos (EJA) - Ensino Fundamental
+QT_DOC_EJA_MED	Número de Docentes da Educação de Jovens e Adultos (EJA) - Ensino Médio
+QT_DOC_ESP	Número de Docentes da Educação Especial
+QT_DOC_ESP_CC	Número de Docentes da Educação Especial Inclusiva
+QT_DOC_ESP_CE	Número de Docentes da Educação Especial Exclusiva
+
+
+
+
